@@ -302,6 +302,7 @@ int main (){
 
         }// s no 0
     }// w no 0
+return 0;
 }
 
 void addbook ( library *book, int &n ){
